@@ -6,12 +6,11 @@ We wanted to extend the ability for users to search our UFO sighting tables more
 
 ## Overview of the Results
 
-Your new search table is now going to let your users find more specific sightings around them either by location or type of sighting. 
+Your new search table is now going to let your users find more specific sightings around them either by location or type of sighting. Previously, we were only able to search by date ![Date Search](static/images/date search.PNG)
 
 ## Results
 
-We have internally tested the system with a planned vacation in Japan. Our system is in full swing and ready for more testers. ![Internal Testing](vacation_itinerary/WeatherPy_travel_map.PNG)
-
+We have internally tested the system with a planned vacation in Japan. Our system is in full swing and ready for more testers.
 The maps also list hotels and weather conditions of the city for our users to get real-time feedback of the city.
 ![Internal Testing](vacation_itinerary/WeatherPy_travel_map_markers.png)
 

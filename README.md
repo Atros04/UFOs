@@ -7,13 +7,13 @@ We wanted to extend the ability for users to search our UFO sighting tables more
 ## Overview of the Results
 
 Your new search table is now going to let your users find more specific sightings around them either by location or type of sighting. Previously, we were only able to search by date
-https://github.com/Atros04/UFOs/blob/main/static/images/date%20search.PNG
 
+![Date Search](https://github.com/Atros04/UFOs/blob/main/static/images/date%20search.PNG)
 
-## Results
+Now, users can search by any and all criteria they want. In this example, date and city.
 
-We have internally tested the system with a planned vacation in Japan. Our system is in full swing and ready for more testers.
-The maps also list hotels and weather conditions of the city for our users to get real-time feedback of the city.
-![Internal Testing](vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Date and City Search](static/images/date%20city%20search.PNG)
 
-As we look to have more features added with the beta feedback, we want to have a second testing period ready.
+## Future Notes
+
+With this new setting, we now offer a variety of ways for people to search or table. However, we are requiring them to give exactly the correct information that the table was created with. Meaning if they put in a shape that is close to or not in the table, they will get nothing in the table. What I recommend we do is make a dropdown for that selection so that users can pick the shape they want without having to be perfect. Secondly, I would recommend that we make drop downs of available countries for the exact same reason as above.

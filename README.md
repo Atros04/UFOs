@@ -6,7 +6,9 @@ We wanted to extend the ability for users to search our UFO sighting tables more
 
 ## Overview of the Results
 
-Your new search table is now going to let your users find more specific sightings around them either by location or type of sighting. Previously, we were only able to search by date ![Date Search](static/images/date search.PNG)
+Your new search table is now going to let your users find more specific sightings around them either by location or type of sighting. Previously, we were only able to search by date
+https://github.com/Atros04/UFOs/blob/main/static/images/date%20search.PNG
+
 
 ## Results
 
